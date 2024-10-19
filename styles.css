@@ -48,6 +48,24 @@ nav ul li a {
 }
 
 /* Hero Styles */
+.hero {
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.2em;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#resume-btn {
+  margin: 29.216px 0;
+  font-size: 20px;
+}
 
 /* About Section Styles */
 
@@ -111,6 +129,7 @@ nav ul li a {
 
 .project-card .project-links a {
   display: inline-block;
+  margin: 15px 15px;
 }
 
 /* Footer Styles */
