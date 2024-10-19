@@ -5,6 +5,19 @@ html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.btn {
+  background-color: #f0a500;
+  color: #1e1e1e;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #ffb800;
+}
+
 /* Header Styles */
 header {
   display: flex;
