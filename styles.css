@@ -133,3 +133,23 @@ nav ul li a {
 }
 
 /* Footer Styles */
+footer {
+  background-color: #1e1e1e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer p {
+  margin: 8px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
