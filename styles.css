@@ -19,6 +19,11 @@ html {
   background-color: #ffb800;
 }
 
+h2 {
+  text-align: center;
+  font-size: 2em;
+}
+
 /* Header Styles */
 header {
   display: flex;
@@ -81,6 +86,12 @@ nav ul li a:hover {
 }
 
 /* About Section Styles */
+#about p {
+  margin: 0 25px;
+  font-size: 1.25em;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+}
 
 /* Skills Section Styles */
 #skills {
@@ -111,6 +122,10 @@ nav ul li a:hover {
 }
 
 /* Project Section Styles */
+h3 {
+  font-size: 1.65em;
+}
+
 .project-card {
   display: flex;
   flex-direction: row;
@@ -143,6 +158,11 @@ nav ul li a:hover {
 .project-card .project-links a {
   display: inline-block;
   margin: 15px 15px;
+  font-size: 1.1em;
+}
+
+.project-card p {
+  font-size: 1.25em;
 }
 
 /* Footer Styles */
