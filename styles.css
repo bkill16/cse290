@@ -7,7 +7,7 @@ html {
 }
 
 .btn {
-  background-color: #f0a500;
+  background-color: mediumslateblue;
   color: #1e1e1e;
   text-decoration: none;
   padding: 10px 15px;
@@ -16,7 +16,7 @@ html {
 }
 
 .btn:hover {
-  background-color: #ffb800;
+  background-color: palevioletred;
 }
 
 h2 {
@@ -35,7 +35,7 @@ header {
 
 #logo {
   text-decoration: none;
-  color: white;
+  color: yellowgreen;
   font-size: 24px;
   margin: 0 15px;
 }
